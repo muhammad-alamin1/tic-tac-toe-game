@@ -1,0 +1,6 @@
+*.o
+*.exe
+/bin
+/obj
+/Tic Tac Toe.cbp
+/Tic Tac Toe.depend
